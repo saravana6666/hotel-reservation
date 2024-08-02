@@ -5,8 +5,7 @@ This Java-based Hotel Reservation System allows users to search for available ro
 Features
 Room Categorization:
 
-Different room types (e.g., Standard, Deluxe, Suite)
-Room pricing based on category
+Different room types 
 Search and Reservation:
 
 Search for available rooms based on date and room type
